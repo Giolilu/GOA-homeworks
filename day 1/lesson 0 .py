@@ -1,4 +1,4 @@
-print("day 0 homework")
+
 from turtle import *
 
 
@@ -6,7 +6,7 @@ from turtle import *
 
 # we want to paint house
 
-# first step: draw a squar
+
 width(7)
 color("red")
 speed(10)
